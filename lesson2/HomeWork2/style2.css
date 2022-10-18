@@ -1,0 +1,47 @@
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.first{
+    background: #2b6bb4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 700px;
+    height: 200px;
+
+}
+.second{
+    display: flex;
+    justify-content: stretch;
+    width: 700px;
+    column-gap: 20px;
+
+}
+.widgets{
+    background: #224E80FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: aliceblue;
+
+}
+
+.third{
+    background: #2b6bb4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 700px;
+    height: 400px;
+
+}
