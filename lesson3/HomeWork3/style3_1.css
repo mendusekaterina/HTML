@@ -1,4 +1,6 @@
-
+.main{
+    margin-top: 40px;
+}
 .icons, .cards {
     display: flex;
     justify-content: space-around;
