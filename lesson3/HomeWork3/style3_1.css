@@ -1,0 +1,44 @@
+
+.icons, .cards {
+    display: flex;
+    justify-content: space-around;
+}
+.icon1, .icon2, .icon3 {
+    border: 1px solid silver;
+    width: 75px;
+    height: 75px;
+    background: white;
+    border-radius: 50%;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+i {
+    font-size: 30px;
+    color: orange;
+}
+.card1, .card2, .card3 {
+    border: 1px solid silver;
+    width: 200px;
+    height: 300px;
+}
+.cards {
+    position: relative;
+    bottom: 25px;
+}
+p{
+    color: silver;
+    text-align: center;
+    margin: 0;
+}
+.card1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+h3 {
+    margin: 0;
+}
