@@ -1,0 +1,53 @@
+.upline{
+    display: flex;
+    justify-content: space-between;
+}
+.fon{
+    background: azure;
+    height: 500px;
+    border: 1px solid silver;
+}
+.center{
+    background: midnightblue;
+    height: 60%;
+    position: relative;
+    top: 25px;
+}
+.icons {
+    display: flex;
+    column-gap: 10px;
+    justify-content: flex-end;
+}
+i{
+    color: mediumpurple;
+    font-size: 30px;
+}
+.lupa, .linii {
+    margin-top: 30px;
+}
+.linii {
+    margin-right: 80px;
+}
+.knopka{
+    border-radius: 15px;
+    background: midnightblue;
+    width: 150px;
+    height: 40px;
+    margin-top: 25px;
+    margin-left: 80px;
+}
+.squares{
+    display: flex;
+    justify-content: center;
+    column-gap: 15px;
+}
+.square{
+    background: mediumpurple;
+    border-radius: 15px;
+    width: 150px;
+    height: 150px;
+    z-index: 1;
+    margin-bottom: 10px;
+    position: relative;
+    top: -50px;
+}
