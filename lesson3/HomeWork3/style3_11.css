@@ -1,0 +1,48 @@
+.main{
+    height: 500px;
+}
+.cards {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    row-gap: 20px;
+}
+.icon {
+    border: 1px solid silver;
+    width: 75px;
+    height: 75px;
+    background: white;
+    border-radius: 50%;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+i {
+    font-size: 30px;
+    color: orange;
+}
+.card1 {
+    border: 1px solid silver;
+    width: 200px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+p{
+    color: silver;
+    text-align: center;
+    margin: 0;
+}
+.icon {
+    position: relative;
+    bottom: 80px;
+}
+
+h3 {
+    margin-top: -50px;
+}
