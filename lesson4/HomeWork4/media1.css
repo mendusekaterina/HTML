@@ -1,0 +1,32 @@
+@media screen and (max-width:576px){
+   .main{
+       display: flex;
+       flex-direction: column;
+      row-gap: 20px;
+   }
+    .bc{
+        height: 90%;
+        margin-top: 50px;
+        flex-direction: column;
+        row-gap: 20px;
+    }
+    .c{
+        margin-left: 0;
+        margin-bottom: 0;
+        width: 100%;
+        height: 30%;
+    }
+    .b{
+        width: 100%;
+        height: 65%;
+    }
+
+    .a{
+        margin-bottom: 0;
+        height: 25%;
+    }
+    .bc{
+        margin-top: 0;
+    }
+
+}

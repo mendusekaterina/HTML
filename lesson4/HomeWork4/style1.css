@@ -1,0 +1,40 @@
+.main {
+    background: white;
+    height: 95vh;
+    border: 2px solid dimgrey;
+    margin: 3px;
+}
+.a{
+    height: 30%;
+}
+.bc{
+    display: flex;
+    height: 68%;
+}
+.b{
+    width: 70%;
+}
+.c{
+    width: 30%;
+    margin-left: 3px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bg {
+    background: silver;
+}
+.br {
+    border-radius: 10px;
+}
+.fs {
+    font-size: 30px;
+}
+.fc {
+    color: dimgrey;
+}
+.mr {
+    margin: 3px;
+}
