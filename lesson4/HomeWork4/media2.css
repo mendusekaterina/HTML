@@ -1,0 +1,29 @@
+@media screen and (max-width: 576px) {
+
+   .bf{
+       display: block;
+   }
+.main{
+    background: aquamarine;
+}
+.bf{
+    height: 75%;
+}
+    .bcde{
+        width: 101%;
+        height: 50vh;
+    }
+    .a{
+        height: 20vh;
+    }
+    .f{
+        width: 100%;
+        height: 20vh;
+    }
+    .cde{
+        height: 15vh;
+    }
+    .b{
+        height: 34vh;
+    }
+}

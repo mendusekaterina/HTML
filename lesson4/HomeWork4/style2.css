@@ -1,0 +1,57 @@
+.main {
+    background: white;
+    border: 2px solid dimgrey;
+    margin: 3px;
+}
+.a{
+    height: 30vh;
+}
+.bf{
+    display: flex;
+}
+.f{
+    width: 30%;
+    height: 68vh;
+    margin-left: 3px;
+}
+.bcde{
+    width: 70%;
+}
+.cde{
+    display: flex;
+    column-gap: 3px;
+    height: 37.5vh;
+}
+.sz{
+    width: 33%;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.b{
+    width: 98%;
+    height: 30vh;
+    margin: 0 3px;
+}
+
+.bg {
+    background: silver;
+}
+
+.br {
+    border-radius: 10px;
+}
+
+.fs {
+    font-size: 30px;
+}
+
+.fc {
+    color: dimgrey;
+}
+
+.mr {
+    margin: 3px;
+}
